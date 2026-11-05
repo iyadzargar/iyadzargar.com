@@ -6,7 +6,7 @@ package handler
 import (
 	"net/http"
 
-	"github.com/iyad-f/iyadzargar.com/web/views"
+	"github.com/iyadzargar/iyadzargar.com/web/views"
 )
 
 // blogPost renders a single post, or a 404 when no post has the slug.

@@ -5,7 +5,7 @@
 name = "Iyad Zargar"
 url = "https://iyadzargar.com"
 email = "hello@iyadzargar.com"
-github_username = "iyad-f"
+github_username = "iyadzargar"
 location = "Bengaluru, India"
 
 [about]
@@ -39,7 +39,7 @@ name = "brainfuck.zig"
 desc = "Brainfuck JIT compiler that emits raw AArch64 machine code into MAP_JIT pages. An IR with a run folding pass takes mandelbrot.bf from 9.2s on the tree walking interpreter to 0.56s, about 16x faster."
 lang = "Zig"
 tags = ["JIT", "AArch64", "Machine code", "IR", "Optimization passes"]
-url = "https://github.com/iyad-f/brainfuck.zig"
+url = "https://github.com/iyadzargar/brainfuck.zig"
 link_label = "Source"
 featured = true
 
@@ -48,7 +48,7 @@ name = "rkv"
 desc = "Redis compatible in memory store speaking RESP2 over a single threaded epoll/kqueue reactor via raw libc FFI. No Tokio. Runs unmodified against redis-cli and redis-benchmark."
 lang = "Rust"
 tags = ["Event loops", "I/O Multiplexing", "epoll", "kqueue", "RESP2", "libc FFI"]
-url = "https://github.com/iyad-f/rkv"
+url = "https://github.com/iyadzargar/rkv"
 link_label = "Source"
 featured = true
 
@@ -57,7 +57,7 @@ name = "bolt"
 desc = "HTTP/1.1 server on raw TCP sockets, zero net/http. Request parsing, chunked transfer, keep alive, TLS, graceful shutdown, and a chainable middleware system."
 lang = "Go"
 tags = ["TCP", "HTTP/1.1", "TLS"]
-url = "https://github.com/iyad-f/bolt"
+url = "https://github.com/iyadzargar/bolt"
 link_label = "Source"
 featured = false
 
@@ -66,7 +66,7 @@ name = "sonyflake"
 desc = "Distributed, Snowflake inspired unique ID generator built for high throughput, low latency concurrent ID generation across threads."
 lang = "Python"
 tags = ["Distributed systems", "Concurrency", "Threading"]
-url = "https://github.com/iyad-f/sonyflake"
+url = "https://github.com/iyadzargar/sonyflake"
 link_label = "Source"
 featured = false
 
@@ -84,7 +84,7 @@ name = "Litestar Backend Template"
 desc = "Production ready Litestar API template with token auth, role based access control, rate limiting, and PostgreSQL migrations, containerized with multi stage Docker."
 lang = "Python"
 tags = ["Litestar", "PostgreSQL", "Redis", "Docker"]
-url = "https://github.com/iyad-f/litestar-backend-template"
+url = "https://github.com/iyadzargar/litestar-backend-template"
 link_label = "Source"
 featured = false
 
@@ -93,6 +93,6 @@ name = "iyadzargar.com"
 desc = "The very site you are reading."
 lang = "Go"
 tags = ["templ", "htmx", "Tailwind", "Caddy", "Distroless"]
-url = "https://github.com/iyad-f/iyadzargar.com"
+url = "https://github.com/iyadzargar/iyadzargar.com"
 link_label = "Source"
 featured = false

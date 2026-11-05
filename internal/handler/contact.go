@@ -12,8 +12,8 @@ import (
 
 	"github.com/go-chi/httprate"
 
-	"github.com/iyad-f/iyadzargar.com/internal/mailer"
-	"github.com/iyad-f/iyadzargar.com/web/views"
+	"github.com/iyadzargar/iyadzargar.com/internal/mailer"
+	"github.com/iyadzargar/iyadzargar.com/web/views"
 )
 
 // contactForm is a submission to validate before it is sent as mail.

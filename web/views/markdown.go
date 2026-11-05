@@ -19,7 +19,7 @@ import (
 	"github.com/yuin/goldmark/renderer/html"
 	"github.com/yuin/goldmark/util"
 
-	"github.com/iyad-f/iyadzargar.com/internal/content"
+	"github.com/iyadzargar/iyadzargar.com/internal/content"
 )
 
 // codeStyle is the Chroma style that colors highlighted code.

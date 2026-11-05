@@ -8,7 +8,7 @@ import (
 
 	"github.com/a-h/templ"
 
-	"github.com/iyad-f/iyadzargar.com/web/views"
+	"github.com/iyadzargar/iyadzargar.com/web/views"
 )
 
 // Register mounts the site's routes on mux.

@@ -16,7 +16,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/iyad-f/iyadzargar.com/internal/content"
+	"github.com/iyadzargar/iyadzargar.com/internal/content"
 )
 
 // Kind is a banner or toast severity.

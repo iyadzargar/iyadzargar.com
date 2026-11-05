@@ -15,7 +15,7 @@ import templruntime "github.com/a-h/templ/runtime"
 import (
 	"strconv"
 
-	"github.com/iyad-f/iyadzargar.com/internal/content"
+	"github.com/iyadzargar/iyadzargar.com/internal/content"
 )
 
 // postPath is the URL path of a post.

@@ -1,4 +1,4 @@
-module github.com/iyad-f/iyadzargar.com
+module github.com/iyadzargar/iyadzargar.com
 
 go 1.26.2
 

@@ -8,10 +8,10 @@ import (
 	"log/slog"
 	"os"
 
-	"github.com/iyad-f/iyadzargar.com/internal/config"
-	"github.com/iyad-f/iyadzargar.com/internal/content"
-	"github.com/iyad-f/iyadzargar.com/internal/mailer"
-	"github.com/iyad-f/iyadzargar.com/internal/server"
+	"github.com/iyadzargar/iyadzargar.com/internal/config"
+	"github.com/iyadzargar/iyadzargar.com/internal/content"
+	"github.com/iyadzargar/iyadzargar.com/internal/mailer"
+	"github.com/iyadzargar/iyadzargar.com/internal/server"
 )
 
 func main() {

@@ -15,7 +15,7 @@ import templruntime "github.com/a-h/templ/runtime"
 import (
 	"strings"
 
-	"github.com/iyad-f/iyadzargar.com/internal/content"
+	"github.com/iyadzargar/iyadzargar.com/internal/content"
 )
 
 // page is the metadata that sets one document's head apart.
